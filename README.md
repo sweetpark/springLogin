@@ -25,3 +25,11 @@
 
 
 </pre>
+
+
+<pre>
+[Branch]
+ LoginCookieSession
+    - Only Cookie Login
+
+</pre>
